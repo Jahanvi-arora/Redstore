@@ -1,1 +1,1 @@
-# Redstore
+# Kindle - An online book store
